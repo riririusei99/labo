@@ -1,0 +1,4 @@
+http://www.google.co.jp/
+http://www.google.co.jp/test.html
+https://www.google.co.jp/test.html?gws_rd=ssl
+https://www.google.co.jp/?gws_rd=ssl
